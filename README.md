@@ -24,7 +24,7 @@
 #### Result
 - See SQL Employee Tracker:
 - Preview: ![SQL-Employee-Tracker](<images/Screenshot 2024-01-10 at 11.10.39 PM.png>)
-- GitHub Link: 
+- GitHub Link: https://github.com/amnindersinghk/sql-employee-tracker
 
 
-Note: Got assistance from Cuitlahuac Hernandez from class and used chatgpt and google for questions.
+Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
